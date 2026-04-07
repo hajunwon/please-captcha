@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables
+.env
+
+# TypeScript
+*.tsbuildinfo
+
+# Debug / temp files
+debug-*.png
+test-large.js
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
